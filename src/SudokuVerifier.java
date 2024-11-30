@@ -1,4 +1,3 @@
-
 public class SudokuVerifier {
 
 	//sudoku checker modified from the original code by Ibrahim Ali
